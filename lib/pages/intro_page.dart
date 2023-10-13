@@ -31,7 +31,7 @@ class IntroPage extends StatelessWidget {
             // icon
             Padding(
               padding: const EdgeInsets.all(50.0),
-              child: Image.asset('assets/images/sushi.png'),
+              child: Image.asset('assets/images/salmon_eggs.png'),
             ),
 
             const SizedBox(height: 25),
